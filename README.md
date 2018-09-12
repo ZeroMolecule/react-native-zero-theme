@@ -1,4 +1,3 @@
-![Zero Theme](https://image.ibb.co/g2Jsep/logo.png)
 ## Introduction
 Zero Theme is [Zero Molecule's](https://www.zeromolecule.com) new approach to [React Native](https://facebook.github.io/react-native/) styling which can be overwhelming from time to time. We wanted to be able to use css-like `className` styling instead of writing `{flex: 1}` a million times. Yes, we know this can all be achieved using plain JavaScript, but we prefer this way for it's simplicity and readability.
 #### Note
