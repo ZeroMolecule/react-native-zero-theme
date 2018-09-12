@@ -17,13 +17,13 @@ This is a pure styling library, not a UI kit. It is compatible with any componen
 If you want just the components, you need to add the plugin from [npm.js](https://www.npmjs.com/package/react-native-zero-components) using 
 
   ```bash
-  npm install react-native-zero-components --save
+  npm install react-native-zero-theme --save
   ```
 
    or if you prefer [yarn](https://yarnpkg.com/)
 
   ```bash
-  yarn add react-native-zero-components
+  yarn add react-native-zero-theme
   ```
 <br />
 <br />
